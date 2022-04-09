@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fistware is a Criminality GUI that will consist of several FE and visual features
 
 <!--
 **fistware/fistware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
